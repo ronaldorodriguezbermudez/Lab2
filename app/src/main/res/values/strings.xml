@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="categorias">
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Suspenso</item>
+        <item>Autoayuda</item>
+        <item>Ficcion</item>
+        <item>Infrantil</item>
+    </string-array>
+    <string-array name="provincias">
+        <item>San José</item>
+        <item>Alajuela</item>
+        <item>Cartago</item>
+        <item>Heredia</item>
+        <item>Puntarenas</item>
+        <item>Guanacaste</item>
+        <item>Limón</item>
+    </string-array>
+    <string-array name="cantidad">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+</resources>

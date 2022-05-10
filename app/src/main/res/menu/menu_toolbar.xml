@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/opcionInicio"
+            android:title="Inicio"
+    />
+    <item
+            android:id="@+id/opcionBuscar"
+            android:title="Buscar"
+    />
+    <item
+            android:id="@+id/opcionConf"
+            android:title="Configuración"
+    />
+    <item
+            android:id="@+id/opcionLogout"
+            android:title="Cerrar Sesión"
+    />
+</menu>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/activity_listado.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/fragment_inicio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/fragment_promo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/fragment_view_pager.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/item_libro.xml" value="0.3515625" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/layout/nav_header.xml" value="0.3515625" />
+        <entry key="..\:/Users/Public/Moviles/Lab2/app/src/main/res/menu/nav_menu.xml" value="0.3671875" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/activity_info_libro.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/activity_listado.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/item_libro.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/nav_header.xml" value="0.2515625" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/layout/tool_bar.xml" value="0.3515625" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/menu/menu_toolbar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Public/Moviles/lab2v2/Lab2/app/src/main/res/menu/nav_menu.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/activity_buscar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/activity_compra.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/activity_info_libro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/fragment_promo.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/item_libro.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/layout/tool_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Moviles/lab2v3/Lab2/Lab2/app/src/main/res/menu/menu_toolbar.xml" value="0.3671875" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/activity_info_libro.xml" value="0.25" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/activity_listado.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/activity_login.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/fragment_promo.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/item_libro.xml" value="0.25" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2/app/src/main/res/layout/nav_header.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_buscar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_compra.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_info_libro.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_listado.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/fragment_promo.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/item_libro.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/nav_header.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/layout/tool_bar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Ronaldo/Desktop/Lab2~/Lab2/app/src/main/res/menu/menu_toolbar.xml" value="0.3671875" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/layout/activity_buscar.xml" value="0.25" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/layout/activity_listado.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/layout/fragment_promo.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/layout/item_libro.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Ronaldo/Pictures/Lab2/app/src/main/res/menu/nav_menu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

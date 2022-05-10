@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--- USO DE CARDVIEW -->
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginVertical="8dp"
+        android:outlineAmbientShadowColor="@color/black"
+        app:cardBackgroundColor="@color/cardview_shadow_end_color"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <ImageView
+                android:id="@+id/ivLibro"
+                android:layout_width="168dp"
+                android:layout_height="155dp"
+                android:background="@color/black"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+                android:id="@+id/tvLibroNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:maxWidth="150dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                tools:text="Jujutsu Kaisen"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/ivLibro"/>
+
+        <TextView
+                android:id="@+id/tvLibroEditorial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                tools:text="Norma"
+                app:layout_constraintTop_toBottomOf="@+id/tvLibroNombre"
+                app:layout_constraintStart_toEndOf="@+id/ivLibro"/>
+
+        <TextView
+                android:id="@+id/tvLibroAnnio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                tools:text="2020"
+                app:layout_constraintTop_toBottomOf="@+id/tvLibroEditorial"
+                app:layout_constraintStart_toEndOf="@+id/ivLibro"/>
+
+        <TextView
+                android:id="@+id/tvLibroIdioma"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                tools:text="Manga"
+                app:layout_constraintTop_toBottomOf="@+id/tvLibroAnnio"
+                app:layout_constraintStart_toEndOf="@+id/ivLibro"/>
+
+        <TextView
+                android:id="@+id/tvLibroPrecio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                tools:text="8500"
+                app:layout_constraintTop_toBottomOf="@+id/tvLibroIdioma"
+                app:layout_constraintStart_toEndOf="@+id/ivLibro"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
